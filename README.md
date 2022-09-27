@@ -1,1 +1,1 @@
-# Projetos e Exercicios de Faculdade
+# Exercicios de Faculdade
